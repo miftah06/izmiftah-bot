@@ -10,7 +10,7 @@ import threading
 import time
 from getopt import getopt
 from pprint import pprint
-from symbol import decorator
+import decorator
 
 import numpy as np
 import requests as request

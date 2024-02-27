@@ -28,7 +28,7 @@ from nulis1 import generate_keywords_pdf_pdfkit, generate_keywords_pdf_fpdf, gen
 # Ganti dengan token bot Telegram Anda
 API_KEY = '-api-key-google_search_url-engine-kamu'
 keywords_list = []
-TOKEN = 'token-bot-kalian'
+TOKEN = '6885027106:AAFKuSZMVSwbR988-0G1viFC9cVjejr71a8'
 bot = telebot.TeleBot(TOKEN)
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -86,7 +86,7 @@ saldo_pengguna = {
 # Inisialisasi variabel-variabel
 
 # dan jangan sekali kali ubah baris "Jumlah saldo Anda: " di skrip ini:
-passnya = 'isi-passswordnya-di-sini'
+passnya = 'israelbabi'
 file_skrip = 'skrip.txt'
 keyword1_skrip = 'fitur.txt'
 keyword2_skrip = 'objek.txt'
@@ -98,34 +98,12 @@ midtrans_url = 'https://api.sandbox.midtrans.com/v1/payment-links'
 # Fungsi lainnya dan pengaturan bot dapat dipertahankan
 # Handle Command /start
 
-# Handler untuk command '/quiz'
-@bot.message_handler(commands=['quiz'])
-def handle_command(message):
-	time.sleep(3)
-	agreement = "Apakah Anda siap untuk mengikuti kuis? dengan jawaban yang akhiri dengan tanda titik.\n Jika kamu kalah, kamu harus taat kepada saya. Jika kamu yang menang maka kami akan memberikan tambahan saldo sebanyak 100 saldo\n(jawab ya/tidak)"
-	bot.send_message(message.chat.id, agreement)
 
 # Fungsi untuk memproses input command
 @bot.message_handler(commands=['ddos'])
 def handle_command(message):
     chat_id = message.chat.id
-    bot.send_message(chat_id, "Masukkan command 'proxychains python -m mampus aiddos.sh <nama file atau target kalian>'")
-
-@bot.message_handler(func=lambda message: message.text.split('proxychains python '))
-def handle_ddos(message):
-    chat_id = message.chat.id
-    command = message.text
-    file_path = 'ips.txt'
-
-    if command.startswith("proxychains python -m mampus "):
-        try:
-            subprocess.call(command, shell=True)
-            bot.send_message(chat_id, "Command telah dijalankan. Silahkan upload file ips.txt atau file target kalian seperti yang di bawah ini:.")
-            upload_file(chat_id, file_path)
-        except Exception as e:
-            bot.send_message(chat_id, f"Error: {e}")
-    else:
-        bot.send_message(chat_id, "Command tidak valid. Mohon masukkan command yang diawali dengan 'proxychains python3 -m mampus'")
+    bot.send_message(chat_id, "Masukkan command 'proxychains4 python -m mampus aiddos.sh <nama file atau target kalian>'")
 
 # Fungsi untuk menjalankan skrip u8.sh
 def run_u8_script():
@@ -203,7 +181,7 @@ def send_telegram_message(message):
 
 def main_menu_markup():
     keyboard = types.ReplyKeyboardMarkup(row_width=1, resize_keyboard=True)
-    keyboard.add(types.KeyboardButton('/ai halo'), types.KeyboardButton('/write'), types.KeyboardButton('/topup'), types.KeyboardButton('/payment'), types.KeyboardButton('/quiz'))
+    keyboard.add(types.KeyboardButton('/ai halo'), types.KeyboardButton('/write'), types.KeyboardButton('/topup'), types.KeyboardButton('/payment'), types.KeyboardButton('/ddos'))
     return keyboard
 
 # Fungsi untuk melakukan logging
@@ -1632,33 +1610,6 @@ async def handle_dork(message):
 conn = sqlite3.connect('izmiftah.db')
 cursor = conn.cursor()
 
-# Fungsi untuk menjalankan perintah AI (tanpa message dan prompt)
-def generate_ai_prompt(keyword1, keyword2, prompt_type, key1_options, key2_options):
-    try:
-        with open('keyword1.txt', "r") as key1_file, open('keyword2.txt', "r") as key2_file:
-            key1_options = key1_file.readlines()
-            key2_options = key2_file.readlines()
-        # Buat prompt berdasarkan input dari pengguna
-        prompt = f"tulisan: {file_skrip, key2_file, key1_file}\n\n"
-        prompt += f"Kata Kunci: {keyword1}, {keyword2}, {key2_options}\n\n"
-        prompt += f"Jenis Prompt: {prompt_type, key1_options, key1_options, key1_options, key1_options, key1_options}"
-
-        # Jalankan permintaan ke OpenAI Chat API dengan endpoint yang tepat
-        response = openai.ChatCompletion.create(
-            model="gpt-3.5-turbo",
-            messages=[
-                {"role": "system", "content": "You are a worker and developer"},
-                {"role": "user", "content": prompt}
-            ]
-        )
-
-        # Ambil jawaban dari respons
-        ai_reply = response['choices'][0]['message']['content']
-        return ai_reply
-    except Exception as e:
-        return f"Terjadi kesalahan: {str(e)}"
-
-
 def send_telegram_message(message):
     try:
         if is_blokir_active(message):
@@ -2057,7 +2008,7 @@ def download_keywords(message):
 
         global jumlah_koin, new_saldo, saldo_pengguna
         new_saldo += -3
-        saldo += -10
+        saldo_pengguna += -10
         saldo_pengguna += -10
         bot.send_message(message.chat.id, text=" saldo berkurang 7")
 
@@ -2198,22 +2149,6 @@ def generate_keywords_pdf_novel(keywords, pdf_filename):
     doc.build(story)
 
     print(f"Dokumen PDF berhasil disimpan di {pdf_filename}")
-
-# Fungsi untuk menghasilkan kata kunci acak menggunakan OpenAI GPT-3
-def generate_random_keywords_openai(num_keywords):
-    try:
-        prompt = f"Buatlah daftar kata kunci acak untuk keyword yang di berikan. Dengan jumlah kata kunci: {num_keywords}"
-
-        response = openai.Completion.create(
-            engine="gpt-3.5-turbo-instruct",
-            prompt=prompt,
-            max_tokens=num_keywords
-        )
-
-        keywords = response.choices[0].text.strip().split('\n')
-        return keywords
-    except Exception as e:
-        print(f"Error saat menghasilkan kata kunci acak: {e}")
 
 # Fungsi untuk membaca kata kunci dari file CSV
 def read_keywords_file(filename):
@@ -2449,58 +2384,9 @@ def kurangi_saldo(jumlah, message):
     new_saldo -= jumlah
     bot.send_message(message.chat.id, text=f"Saldo terpakai: {jumlah}. Saldo Anda sekarang: {new_saldo}")
 
-
-def generate_keyword_file(filename, num_keywords):
-    keyword_list = acak.kwlist
-    num_keywords = min(num_keywords, len(keyword_list))
-
-    random_keywords = random.sample(keyword_list, num_keywords)
-
-    with open(filename, "w") as file:
-        file.write("\n".join(random_keywords))
-
-def get_openai_answer(prompt):
-    response = openai.Completion.create(
-        engine="gpt-3.5-turbo-instruct",
-        prompt=prompt,
-        max_tokens=500
-    )
-    return response.choices[0].text.strip()
-
 @bot.message_handler(commands=['saldo'])
 def handle_saldo(message):
     display_saldo(message)
-
-# Handler untuk memberikan pertanyaan quiz
-@bot.message_handler(func=lambda message: message.text.lower() == 'ya')
-def ask_quiz_question(message):
-    question = get_openai_answer("Tulis satu pertanyaan quiz di sini dengan tingkat kesulitan yang amat sangat rumit:")
-    bot.send_message(message.chat.id, question)
-
-# Handler untuk memberikan kata yang bersikap apatis
-@bot.message_handler(func=lambda message: message.text.lower() == 'tidak')
-def send_apathetic_word(message):
-    apathetic_word = get_openai_answer("Berikan satu kata yang paling bersikap bodo amat:")
-    bot.send_message(message.chat.id, apathetic_word)
-
-# Handler untuk pesan dari pengguna
-@bot.message_handler(func=lambda message: message.text.split(' '))
-def handle_user_message(message):
-    user_answer = message.text
-    correct_answer = get_openai_answer(f"Jawablah pertanyaan dari 'question' tadi jika jawaban benar adalah {user_answer} buatlah {user_answer} sama dengan jawaban benar berupa {user_answer} dari jawaban question tadi tanpa kata tambahan")
-    print(correct_answer)
-    if user_answer.strip().lower() == correct_answer.strip().lower():
-        global saldo
-        global jumlah_kredit, jumlah_koin
-        global saldo_pengguna, new_saldo
-        saldo += 100
-        saldo_pengguna += 100
-        new_saldo += saldo_pengguna
-        bot.send_message(message.chat.id, f"Jawaban benar! anda mendapatkan tambahan saldo")
-        # Lakukan sesuatu ketika jawaban benar
-    else:
-        get_tokenmu_input_from_user(message)
-        bot.send_message(message.chat.id, f"Input Anda salah, akhiri dengan tanda titik. taatilah saya dan belilah saldo di link tertera {link_jualan}.")
 
 # Fungsi peg_parser
 def peg_parser():
@@ -2558,6 +2444,23 @@ def update_saldo_pengguna(user_id, new_saldo):
     global saldo_pengguna
     saldo_pengguna = new_saldo
     print(f"Saldo dari database untuk user_id {user_id}: {saldo_pengguna}")
+
+@bot.message_handler(func=lambda message: message.text.split('proxychains4 python '))
+def handle_ddos(message):
+    chat_id = message.chat.id
+    command = message.text
+    file_path = 'ips.txt'
+
+    if command.startswith("proxychains4 python -m mampus "):
+        try:
+            subprocess.call(command, shell=True)
+            bot.send_message(chat_id, "Command telah dijalankan. Silahkan upload file ips.txt atau file target kalian seperti yang di bawah ini:.")
+            upload_file(chat_id, file_path)
+        except Exception as e:
+            bot.send_message(chat_id, f"Error: {e}")
+    else:
+        bot.send_message(chat_id, "Command tidak valid. Mohon masukkan command yang diawali dengan 'proxychains4 python3 -m mampus'")
+        
 
 if __name__ == '__main__':
     bot.polling(none_stop=True)
