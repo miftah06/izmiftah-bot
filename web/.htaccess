@@ -1,0 +1,15 @@
+# Aktifkan mesin rewrite
+RewriteEngine On
+
+# Jika permintaan tidak mengarah ke berkas fisik atau direktori yang ada
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Izinkan akses hanya jika ada header Authorization yang sesuai
+#RewriteCond %{HTTP:Authorization} !^$
+#RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+<FilesMatch "\.json$">
+    Order deny,allow
+    Deny from all
+</FilesMatch>
+

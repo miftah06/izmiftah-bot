@@ -1,0 +1,13 @@
+# Ganti dengan token bot Telegram Anda
+last_update_time = None
+keywords_list = []
+TOKEN = '6822789783:AAHvQN2GYJhTSab3UCaBmCQ6JztjB2zEUsA'
+bot = telebot.TeleBot(TOKEN)
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
+api_key = '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'
+email_kamu = 'play@qql.icu' #tolong modifikasi server smtpnya juga ya
+openai.api_key = api_key
+admin = '@izmiftah'
+
+https://m.dana.id/s/catalogue/udjutmth

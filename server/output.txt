@@ -1,0 +1,3 @@
+co.il/0 = NOT FOUND
+gov.il/0 = NOT FOUND
+www.il/0 = NOT FOUND

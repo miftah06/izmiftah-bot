@@ -1,0 +1,5 @@
+*.kpu.go::*
+*.dpr.go::*
+dpr.go.id
+kpu.go.id
+*.go.id

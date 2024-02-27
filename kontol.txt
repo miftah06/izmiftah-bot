@@ -1,0 +1,12 @@
+Generate script with command:
+
+
+ sebuah skrip python vpn scraper  yang terhubung dengan cloudflared serta del
+ dengan tambahan fungsi __peg_parser__
+ adapun jika isinya berupa perencanaan pendidikan del
+
+ dengan fitur:
+
+perencanaan pendidikan bersama fungsi atau pembahasan mengenai __peg_parser__ serta berikan saya detail lengkapnya 
+
+

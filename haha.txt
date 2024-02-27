@@ -1,0 +1,12 @@
+Generate script with command:
+
+
+ tolong buatkan lah saya skrip python untuk mendapatkan id dan lokasi di discord serta return
+ dengan tambahan fungsi try
+ adapun jika isinya berupa perencanaan pendidikan return
+
+ dengan fitur:
+
+perencanaan pendidikan bersama fungsi atau pembahasan mengenai try serta berikan saya detail lengkapnya 
+
+

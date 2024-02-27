@@ -1,0 +1,12 @@
+Generate script with command:
+
+
+  buatkanlah saya skrip python yang berfungsi dengan benar  sebagai QR code generator serta __peg_parser__
+ dengan tambahan fungsi global
+ adapun jika isinya berupa perencanaan pendidikan __peg_parser__
+
+ dengan fitur:
+
+perencanaan pendidikan bersama fungsi atau pembahasan mengenai global serta berikan saya detail lengkapnya 
+
+
