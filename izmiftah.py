@@ -28,7 +28,7 @@ from nulis1 import generate_keywords_pdf_pdfkit, generate_keywords_pdf_fpdf, gen
 # Ganti dengan token bot Telegram Anda
 API_KEY = '-api-key-google_search_url-engine-kamu'
 keywords_list = []
-TOKEN = '6885027106:AAFKuSZMVSwbR988-0G1viFC9cVjejr71a8'
+TOKEN = 'telegram-bot-tokennya-kamu'
 bot = telebot.TeleBot(TOKEN)
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
