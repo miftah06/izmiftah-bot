@@ -8,7 +8,6 @@ Command:
 
 Command:
 ddos - untuk melakukan ddos atau banned wa
-quiz - untuk mendapatkan saldo secara gratis melalui kuis
 ai - untuk menulis dengan secara otomatis ke output_novel.pdf
 ai_prompt - yakni untuk mengisi prompt sebelum di ubah ke prompt ke text
 bukablokir - untuk membuka blokir saat saldo 0
