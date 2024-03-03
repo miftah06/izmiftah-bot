@@ -1,5 +1,8 @@
 *.kpu.go::*
 *.dpr.go::*
 dpr.go.id
+state.gov
+*.gov
+*.il
 kpu.go.id
 *.go.id
