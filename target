@@ -1,8 +1,4 @@
-*.kpu.go::*
-*.dpr.go::*
-dpr.go.id
-state.gov
+sirekap-web.kpu.go.id
 *.gov
 *.il
-kpu.go.id
 *.go.id
