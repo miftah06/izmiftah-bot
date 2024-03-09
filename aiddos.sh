@@ -1,7 +1,7 @@
 #!/bin/bash
-python3 1-leg.py www.idf.il
+python3 1-leg.py www.tel-aviv.gov.il
 #!/bin/bash
-bash aiddos www.idf.il
+bash aiddos www.tel-aviv.gov.il
 if [ "$(systemd-detect-virt)" == "openvz" ]; then
 			echo "OpenVZ is not supported"
 	fi
