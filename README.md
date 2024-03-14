@@ -1,5 +1,6 @@
 ## tempel ke edit bot lalu edit commend di https://t.me/BotFather
 ## Command karena ada yang gak work karena premium jadi masih beta dulu
+## versi gratis: aibot.py
 ## t.me/miftah45_bot
 
 Command:
