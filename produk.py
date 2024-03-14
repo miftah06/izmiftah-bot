@@ -4,8 +4,6 @@ import numpy as np
 import pandas as pd
 import requests
 
-openai_apikey = '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'
-
 def identify_image(image_path, openai_apikey):
     try:
         # Mengatur kunci API OpenAI
