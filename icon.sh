@@ -1,1 +1,1 @@
-python images.py
+python3 image.py

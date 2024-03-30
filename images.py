@@ -10,7 +10,7 @@ def manipulate_image(image_path):
         # Manipulasi gambar menggunakan PIL
         img = Image.open(image_path)
         # Manipulasi gambar sesuai kebutuhan
-        img = img.resize((800, 600))
+        img = img.resize((7240, 7240))
         img = img.convert("L")  # Grayscale
 
         # Simpan gambar yang sudah dimanipulasi
