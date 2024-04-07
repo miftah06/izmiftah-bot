@@ -6,7 +6,6 @@
 Command:
 
 ```bash
-
 Command:
 ddos - untuk melakukan ddos atau banned wa
 ai - untuk menulis dengan secara otomatis ke output_novel.pdf
