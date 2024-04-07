@@ -6,7 +6,7 @@
 Command:
 
 ```bash
-Command:
+
 ddos - untuk melakukan ddos atau banned wa
 ai - untuk menulis dengan secara otomatis ke output_novel.pdf
 ai_prompt - yakni untuk mengisi prompt sebelum di ubah ke prompt ke text
