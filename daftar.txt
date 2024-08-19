@@ -1,0 +1,6 @@
+# Isi dari file daftar.txt untuk registrasi ke Terabox
+
+[Registrasi]
+username: miftah
+email: izmiftah@akademikus.my.id
+password: Cinta4545

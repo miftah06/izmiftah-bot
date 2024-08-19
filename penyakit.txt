@@ -1,0 +1,254 @@
+Demam: demam tinggi;menggigil;sakit kepala
+Batuk: batuk kering;sesak napas;sakit tenggorokan
+Flu: pilek;bersin-bersin;hidung tersumbat
+Radang Tenggorokan: sakit tenggorokan;nyeri saat menelan;demam ringan
+Diare: perut kembung;mual;muntah
+Migrain: sakit kepala hebat;mual;menglihat cahaya terang
+Gangguan Pencernaan: mulas;perut kembung;sering buang angin
+Karies Gigi: sakit gigi saat makan;gigi berlubang;mengunyah terasa sakit
+Hipertensi: sakit kepala;pusing;mata berkunang-kunang
+Alergi: gatal-gatal di kulit;hidung gatal;bersin-bersin terus-menerus
+Insomnia: sulit tidur;terbangun tengah malam;merasa lelah setelah bangun tidur
+Anemia: lelah terus menerus;pucat;sesak napas
+Hipoglikemia: gemetar;lemas;mengantuk setelah makan
+Pilek: hidung meler;bersin-bersin;batuk ringan
+Asma: sesak napas;dada terasa berat;batuk berdahak
+Otitis Media: telinga terasa sakit;demam ringan;pendengaran berkurang
+Gastritis: perut terasa kembung;mual;muntah
+Cacar Air: bintik merah berair;demam ringan;gatal-gatal
+Epilepsi: kejang;hilang kesadaran;gerakan tubuh tak terkendali
+Osteoporosis: tulang mudah patah;sakit punggung;postur tubuh membungkuk
+Gondok: pembengkakan leher;kesulitan menelan;bersin terus-menerus
+Anxiety: gelisah;napas terengah-engah;denyut jantung cepat
+Depresi: perasaan sedih yang mendalam;kehilangan minat;gangguan tidur
+Flu: demam;batuk
+Pneumonia: demam;batuk;sesak napas
+Bronkitis: batuk;sesak napas;nyeri dada
+Sinusitis: nyeri wajah;pilek;demam
+Flu: demam;batuk;pilek
+Demam Berdarah: demam tinggi;nyeri sendi;ruam kulit
+Malaria: demam;keringat dingin;nyeri otot
+Tifus: demam tinggi;nyeri perut;mual
+Diabetes: sering buang air kecil;haus berlebihan;penurunan berat badan
+Asma: sesak napas;batuk;mengi
+Hepatitis: kulit menguning;nyeri perut;mual
+Hipertensi: sakit kepala;sesak napas;nyeri dada
+Gastritis: nyeri perut;mual;perut kembung
+Migrain: sakit kepala;nyeri leher;mual
+Bronkitis: batuk;sesak napas;nyeri dada
+Pneumonia: demam;batuk;sesak napas
+Radang Tenggorokan: nyeri tenggorokan;demam;kesulitan menelan
+Sinusitis: nyeri wajah;pilek;demam
+Kolesterol Tinggi: nyeri dada;pusing;mual
+Gagal Ginjal: pembengkakan kaki;nyeri pinggang;mual
+Arthritis: nyeri sendi;pembengkakan sendi;kaku sendi
+Infeksi Saluran Kemih: nyeri saat buang air kecil;sering buang air kecil;nyeri perut
+Tuberkulosis: batuk darah;demam malam;berat badan turun
+Cacar Air: ruam kulit demam;gatal-gatal
+Kanker Paru-Paru: batuk kronis;nyeri dada;berat badan turun
+Skizofrenia: halusinasi;delusi;perilaku tidak teratur
+Stroke: kelemahan otot mendadak;kebingungan;gangguan bicara
+Depresi: kesedihan berlebihan;kehilangan minat;gangguan tidur
+Alergi: gatal-gatal;ruam kulit;mata berair
+Anemia: lelah berlebihan;pusing;kulit pucat
+Radang Usus Buntu: nyeri perut kanan bawah;demam;mual
+Hipotiroidisme: lelah;berat badan naik;kulit kering
+Hipertiroidisme: berat badan turun;gugup;berkeringat berlebihan
+Psoriasis: ruam kulit;kulit bersisik;gatal-gatal
+Parkinson: tremor;kaku otot;gangguan keseimbangan
+Anoreksia: berat badan turun;gangguan makan;lemah
+Bulimia: muntah berlebihan;gangguan makan;lelah
+Osteoporosis: nyeri tulang;patah tulang;postur tubuh bungkuk
+Eczema: ruam kulit;kering;gatal-gatal
+Sistitis: nyeri saat buang air kecil;sering buang air kecil;nyeri perut
+Apendisitis: nyeri perut kanan bawah;demam;mual
+Fibromyalgia: nyeri otot;kaku;lelah
+Gagal Jantung: sesak napas;pembengkakan kaki;lelah
+Varises: pembengkakan vena;nyeri kaki;kram kaki
+Gout: nyeri sendi;kemerahan;pembengkakan
+Meningitis: demam tinggi;leher kaku;sakit kepala
+Endometriosis: nyeri haid;nyeri panggul;infertilitas
+Prostatitis: nyeri panggul;nyeri saat buang air kecil;demam
+SLE (Lupus): ruam kupu-kupu;nyeri sendi;demam
+Katarak: penglihatan kabur;penglihatan ganda;silau
+Glaukoma: nyeri mata;penglihatan kabur;melihat lingkaran cahaya
+Penyakit Alzheimer: kehilangan memori;kesulitan berbicara;perubahan perilaku
+Sindrom Iritasi Usus: nyeri perut;kembung;diare
+Hepatitis C: demam;kulit menguning;lelah
+Sarkoidosis: batuk;nyeri sendi;ruam kulit
+Penyakit Charcot-Marie-Tooth: kelemahan otot kaki;kelainan bentuk kaki;kesulitan berjalan
+Penyakit Devic: kehilangan penglihatan;kelemahan otot;mati rasa
+Penyakit Creutzfeldt-Jakob: kehilangan memori;perubahan perilaku;kejang
+Penyakit Buerger: nyeri kaki;nyeri tangan;pembengkakan pembuluh darah
+Penyakit Still: demam;ruam kulit;nyeri sendi
+Penyakit Wegener: hidung tersumbat;batuk darah;nyeri sendi
+Penyakit Goodpasture: batuk darah;nyeri dada;kelemahan
+Penyakit Takayasu: kelelahan;demam;nyeri dada
+Penyakit Kikuchi: demam;ruam kulit;nyeri sendi
+Penyakit Sweet: demam;ruam kulit;nyeri sendi
+Penyakit Erdheim-Chester: nyeri tulang;nyeri sendi;pembengkakan kelenjar getah bening
+Penyakit Castleman: pembengkakan kelenjar getah bening;demam;kelelahan
+Penyakit Whipple: nyeri perut;diare;penurunan berat badan
+Penyakit Kawasaki: demam tinggi;ruam kulit;pembengkakan kelenjar getah bening
+Penyakit Chagas: demam;kelelahan;ruam kulit
+Penyakit Hansen: ruam kulit;mati rasa;pembengkakan saraf
+Penyakit Leptospirosis: demam;nyeri otot;mual
+Penyakit Brucellosis: demam;nyeri otot;pembengkakan kelenjar getah bening
+Penyakit Melioidosis: demam;nyeri otot;batuk
+Penyakit Leishmaniasis: demam;penurunan berat badan;pembengkakan kelenjar getah bening
+Penyakit Babesiosis: demam;kelelahan;nyeri otot
+Penyakit Bartonellosis: demam;ruam kulit;pembengkakan kelenjar getah bening
+Penyakit Schistosomiasis: demam;ruam kulit;nyeri otot
+Penyakit Onchocerciasis: gatal-gatal;ruam kulit;kehilangan penglihatan
+Penyakit Filariasis: pembengkakan ekstremitas;demam;gatal
+Penyakit Charcot-Marie-Tooth: kelemahan otot kaki;kelainan bentuk kaki;kesulitan berjalan
+Penyakit Devic: kehilangan penglihatan;kelemahan otot;mati rasa
+Penyakit Creutzfeldt-Jakob: kehilangan memori;perubahan perilaku;kejang
+Penyakit Buerger: nyeri kaki;nyeri tangan;pembengkakan pembuluh darah
+Penyakit Still: demam;ruam kulit;nyeri sendi
+Penyakit Wegener: hidung tersumbat;batuk darah;nyeri sendi
+Penyakit Goodpasture: batuk darah;nyeri dada;kelemahan
+Penyakit Takayasu: kelelahan;demam;nyeri dada
+Penyakit Kikuchi: demam;ruam kulit;nyeri sendi
+Penyakit Sweet: demam;ruam kulit;nyeri sendi
+Penyakit Erdheim-Chester: nyeri tulang;nyeri sendi;pembengkakan kelenjar getah bening
+Penyakit Castleman: pembengkakan kelenjar getah bening;demam;kelelahan
+Penyakit Whipple: nyeri perut;diare;penurunan berat badan
+Penyakit Kawasaki: demam tinggi;ruam kulit;pembengkakan kelenjar getah bening
+Penyakit Chagas: demam;kelelahan;ruam kulit
+Penyakit Hansen: ruam kulit;mati rasa;pembengkakan saraf
+Penyakit Leptospirosis: demam;nyeri otot;mual
+Penyakit Brucellosis: demam;nyeri otot;pembengkakan kelenjar getah bening
+Penyakit Melioidosis: demam;nyeri otot;batuk
+Penyakit Leishmaniasis: demam;penurunan berat badan;pembengkakan kelenjar getah bening
+Penyakit Babesiosis: demam;kelelahan;nyeri otot
+Penyakit Bartonellosis: demam;ruam kulit;pembengkakan kelenjar getah bening
+Penyakit Schistosomiasis: demam;ruam kulit;nyeri otot
+Penyakit Onchocerciasis: gatal-gatal;ruam kulit;kehilangan penglihatan
+Penyakit Filariasis: pembengkakan ekstremitas;demam;gatal
+Flu: demam;batuk;pilek;sakit tenggorokan;nyeri otot
+Demam Berdarah: demam tinggi;nyeri otot;nyeri sendi;ruam kulit;pendarahan ringan
+Malaria: demam;menggigil;nyeri kepala;keringat berlebih;nyeri otot
+Tifus: demam tinggi;nyeri perut;diare;mual;muntah
+Diabetes: sering haus;sering buang air kecil;penurunan berat badan;kelelahan;penglihatan kabur
+Asma: sesak napas;batuk;wheezing;dada terasa sesak
+Hepatitis: demam;kelelahan;nyeri perut;mual;kulit dan mata menguning
+Hipertensi: sakit kepala;nyeri dada;sesak napas;detak jantung tidak teratur;penglihatan kabur
+Gastritis: nyeri perut;mual;muntah;perut kembung;diare
+Migrain: nyeri kepala parah;mual;mata berair;sensitif terhadap cahaya;sensitif terhadap suara
+Bronkitis: batuk berdahak;sesak napas;nyeri dada;demam ringan;kelelahan
+Pneumonia: demam tinggi;batuk berdahak;nyeri dada;sesak napas;kelelahan
+Radang Tenggorokan: sakit tenggorokan;demam;batuk;kesulitan menelan;nyeri telinga
+Sinusitis: nyeri wajah;pilek;sakit kepala;batuk;demam
+Kolesterol Tinggi: nyeri dada;detak jantung tidak teratur;mudah lelah;nyeri kaki;kesemutan
+Gagal Ginjal: sering buang air kecil;mual;muntah;kelelahan;pembengkakan kaki
+Arthritis: nyeri sendi;pembengkakan sendi;kekakuan sendi;penurunan rentang gerak;kemerahan
+Infeksi Saluran Kemih: nyeri saat buang air kecil;sering buang air kecil;demam;nyeri punggung;urine berbau tidak sedap
+Tuberkulosis: batuk kronis;demam;berkeringat di malam hari;penurunan berat badan;kelelahan
+Cacar Air: demam;ruam kulit gatal;lepuh berisi cairan;kelelahan;sakit kepala
+Kanker Paru-Paru: batuk kronis;nyeri dada;penurunan berat badan;sesak napas;kelelahan
+Skizofrenia: halusinasi;delusi;gangguan berpikir;penarikan diri dari sosial;emosi datar
+Stroke: kelemahan wajah;kelemahan lengan;sulit berbicara;sulit berjalan;penurunan penglihatan
+Depresi: perasaan sedih;kehilangan minat;perubahan nafsu makan;kesulitan tidur;kelelahan
+Alergi: gatal-gatal;ruam kulit;bersin;mata berair;hidung tersumbat
+Anemia: kelelahan;kulit pucat;sakit kepala;sesak napas;detak jantung cepat
+Radang Usus Buntu: nyeri perut bawah kanan;demam;mual;muntah;hilang nafsu makan
+Hipotiroidisme: kelelahan;penambahan berat badan;kulit kering;konstipasi;sensitif terhadap dingin
+Hipertiroidisme: penurunan berat badan;detak jantung cepat;keringat berlebih;gelisah;mata melotot
+Psoriasis: ruam kulit;kulit bersisik;kulit kering;gatal;sendi bengkak
+Parkinson: tremor;gerakan lambat;otot kaku;gangguan keseimbangan;kesulitan berbicara
+Anoreksia: penurunan berat badan ekstrem;kelelahan;insomnia;kulit kering;kerontokan rambut
+Bulimia: makan berlebihan;muntah paksa;kelelahan;dehidrasi;iritasi tenggorokan
+Osteoporosis: tulang rapuh;nyeri punggung;postur bungkuk;penurunan tinggi badan;kerapuhan tulang
+Eczema: gatal;kulit kering;kemerahan;kulit pecah-pecah;infeksi kulit
+Sistitis: nyeri saat buang air kecil;sering buang air kecil;nyeri panggul;urine keruh;demam ringan
+Apendisitis: nyeri perut bawah kanan;mual;muntah;demam;hilang nafsu makan
+Fibromyalgia: nyeri otot;kelelahan;sulit tidur;sulit berkonsentrasi;sensitif terhadap nyeri
+Gagal Jantung: sesak napas;kelelahan;batuk kronis;pembengkakan kaki;detak jantung cepat
+Varises: pembuluh darah bengkak;nyeri kaki;pembengkakan kaki;kram kaki;gatal di sekitar pembuluh darah
+Gout: nyeri sendi mendadak;pembengkakan sendi;kemerahan pada sendi;sendi terasa panas;terbatasnya gerak sendi
+Meningitis: demam tinggi;sakit kepala parah;leher kaku;mual;sensitif terhadap cahaya
+Endometriosis: nyeri panggul;nyeri saat menstruasi;infertilitas;nyeri saat berhubungan seksual;perdarahan berat
+Prostatitis: nyeri perut bawah;nyeri saat buang air kecil;sering buang air kecil;demam;nyeri saat ejakulasi
+SLE (Lupus): kelelahan;ruam kulit;nyeri sendi;demam;sensitif terhadap cahaya matahari
+Katarak: penglihatan kabur;penglihatan ganda;kesulitan melihat di malam hari;silau saat melihat cahaya;pemutihan lensa mata
+Glaukoma: kehilangan penglihatan perifer;penglihatan kabur;sakit mata;mata merah;melihat lingkaran cahaya
+Penyakit Alzheimer: kehilangan memori;kesulitan berbicara;kesulitan berpikir;perubahan perilaku;disorientasi
+Sindrom Iritasi Usus: nyeri perut;kembung;diare;konstipasi;perubahan kebiasaan buang air besar
+Hepatitis C: kelelahan;kulit dan mata menguning;nyeri perut;urin gelap;gatal
+Sarkoidosis: kelelahan;demam;nyeri sendi;sesak napas;batuk kering
+Epilepsi: kejang;hilang kesadaran;gerakan tubuh yang tidak terkendali;kebingungan sementara;perubahan perilaku
+Rabies: demam;gatal di tempat gigitan;menggigil;gelisah;kejang
+Infeksi Telinga: nyeri telinga;demam;gangguan pendengaran;cairan keluar dari telinga;iritasi
+Conjunctivitis: mata merah;gatal;mata berair;keluar lendir atau nanah;kelopak mata bengkak
+Vertigo: pusing;mual;muntah;hilang keseimbangan;gerakan mata yang tidak normal
+Sakit Gigi: nyeri gigi;gusi bengkak;sakit kepala;demam;nyeri saat mengunyah
+Campak: demam;ruam kulit;batuk;mata merah;hidung meler
+Rubella: demam ringan;ruam kulit;pembengkakan kelenjar getah bening;nyeri sendi;mata merah
+Kanker Payudara: benjolan di payudara;perubahan bentuk payudara;nyeri payudara;kulit payudara mengeras;puting mengeluarkan cairan
+Kanker Prostat: kesulitan buang air kecil;nyeri panggul;darah dalam urine;nyeri tulang;kelemahan
+Kanker Kulit: perubahan pada kulit;benjolan baru;pendarahan pada kulit;gatal pada kulit;perubahan warna kulit
+Kanker Usus: perubahan kebiasaan buang air besar;darah dalam tinja;penurunan berat badan;kelelahan;nyeri perut
+Kanker Otak: sakit kepala parah;mual;muntah;kejang;perubahan kepribadian
+Kanker Hati: penurunan berat badan;kelelahan;nyeri perut;kulit dan mata menguning;pembengkakan perut
+Kanker Pankreas: nyeri perut;pembengkakan perut;penurunan berat badan;kelelahan;kulit dan mata menguning
+Leukemia: kelelahan;infeksi berulang;penurunan berat badan;mudah berdarah;nyeri tulang
+Limfoma: pembengkakan kelenjar getah bening;demam;penurunan berat badan;kelelahan;gatal
+Multiple Sclerosis: mati rasa;kelemahan;masalah koordinasi;masalah penglihatan;kelelahan
+Penyakit Huntington: gerakan tidak terkendali;masalah kognitif;perubahan suasana hati;depresi;kesulitan menelan
+Penyakit Crohn: nyeri perut;diare;penurunan berat badan;kelelahan;demam
+Kolitis Ulseratif: diare berdarah;nyeri perut;demam;penurunan berat badan;kelelahan
+Sindrom Kelelahan Kronis: kelelahan parah;sulit tidur;nyeri otot;nyeri sendi;sakit kepala
+Penyakit Celiac: diare;nyeri perut;penurunan berat badan;kelelahan;anemia
+Polio: demam;kelemahan otot;sakit kepala;leher kaku;masalah pernapasan
+Penyakit Addison: kelelahan;penurunan berat badan;nyeri perut;kulit gelap;tekanan darah rendah
+Penyakit Wilson: kelelahan;nyeri perut;masalah hati;masalah mental;gerakan tidak terkendali
+Penyakit Graves: penurunan berat badan;detak jantung cepat;gugup;keringat berlebih;mata menonjol
+Penyakit Hashimoto: kelelahan;penambahan berat badan;kulit kering;suara serak;nyeri otot
+Sindrom Cushing: penambahan berat badan;wajah bulat;kulit tipis;memar mudah;kelemahan otot
+Penyakit Kawasaki: demam tinggi;ruam kulit;pembengkakan kelenjar getah bening;mata merah;bibir pecah-pecah
+Penyakit Lyme: ruam berbentuk lingkaran;demam;nyeri sendi;kelelahan;sakit kepala
+Penyakit Marfan: tinggi badan yang ekstrem;jangkauan lengan panjang;sendi longgar;skoliosis;masalah jantung
+Penyakit Behcet: luka mulut;ruam kulit;luka genital;nyeri sendi;radang mata
+Penyakit Raynaud: jari tangan atau kaki berubah warna;dingin di ujung jari;mati rasa;kesemutan;nyeri
+Sindrom Tourette: gerakan tubuh tidak terkendali;vokal tics;gerakan wajah tidak terkendali;gerakan kepala tidak terkendali;kompulsif
+Penyakit Huntington: gerakan tidak terkendali;masalah kognitif;perubahan suasana hati;depresi;kesulitan menelan
+Penyakit Crohn: nyeri perut;diare;penurunan berat badan;kelelahan;demam
+Kolitis Ulseratif: diare berdarah;nyeri perut;demam;penurunan berat badan;kelelahan
+Sindrom Kelelahan Kronis: kelelahan parah;sulit tidur;nyeri otot;nyeri sendi;sakit kepala
+Penyakit Celiac: diare;nyeri perut;penurunan berat badan;kelelahan;anemia
+Polio: demam;kelemahan otot;sakit kepala;leher kaku;masalah pernapasan
+Penyakit Addison: kelelahan;penurunan berat badan;nyeri perut;kulit gelap;tekanan darah rendah
+Penyakit Gaucher: nyeri tulang;pembesaran hati;kelelahan;memar mudah;pembesaran limpa
+Penyakit Tay-Sachs: kehilangan kemampuan motorik;kejang;kelemahan otot;gangguan pendengaran;penurunan mental
+Penyakit Alport: masalah pendengaran;masalah penglihatan;darah dalam urine;penurunan fungsi ginjal;protein dalam urine
+Penyakit Fabry: nyeri tangan dan kaki;ruam kulit;masalah ginjal;masalah jantung;masalah pernapasan
+Penyakit Ehlers-Danlos: kulit sangat elastis;kulit mudah memar;sendi sangat lentur;nyeri sendi;skoliosis
+Penyakit Pompe: kelemahan otot;masalah pernapasan;penurunan tonus otot;pembesaran hati;kesulitan makan
+Penyakit Prader-Willi: kelaparan berlebihan;penurunan tonus otot;pertumbuhan lambat;gangguan belajar;masalah perilaku
+Penyakit Angelman: keterlambatan perkembangan;masalah keseimbangan;kejang;senyum atau tertawa yang berlebihan;masalah tidur
+Penyakit Charcot-Marie-Tooth: kelemahan otot kaki;kelainan bentuk kaki;kesulitan berjalan;nyeri saraf;penurunan refleks
+Penyakit Devic: kehilangan penglihatan;kelemahan otot;mati rasa;kejang;masalah kandung kemih
+Penyakit Creutzfeldt-Jakob: kehilangan memori;perubahan perilaku;kejang;gangguan koordinasi;kelemahan otot
+Penyakit Buerger: nyeri kaki;nyeri tangan;pembengkakan pembuluh darah;ulkus kulit;gangren
+Penyakit Still: demam;ruam kulit;nyeri sendi;pembengkakan kelenjar getah bening;nyeri otot
+Penyakit Wegener: hidung tersumbat;batuk darah;nyeri sendi;ruam kulit;nyeri dada
+Penyakit Goodpasture: batuk darah;nyeri dada;kelemahan;darah dalam urine;penurunan fungsi ginjal
+Penyakit Takayasu: kelelahan;demam;nyeri dada;sesak napas;pembengkakan arteri
+Penyakit Kikuchi: demam;ruam kulit;nyeri sendi;pembengkakan kelenjar getah bening;penurunan berat badan
+Penyakit Sweet: demam;ruam kulit;nyeri sendi;pembengkakan kelenjar getah bening;nyeri otot
+Penyakit Erdheim-Chester: nyeri tulang;nyeri sendi;pembengkakan kelenjar getah bening;nyeri perut;kesulitan bernapas
+Penyakit Castleman: pembengkakan kelenjar getah bening;demam;kelelahan;penurunan berat badan;nyeri perut
+Penyakit Whipple: nyeri perut;diare;penurunan berat badan;nyeri sendi;demam
+Penyakit Kawasaki: demam tinggi;ruam kulit;pembengkakan kelenjar getah bening;mata merah;bibir pecah-pecah
+Penyakit Chagas: demam;kelelahan;ruam kulit;pembengkakan di tempat infeksi;masalah jantung
+Penyakit Hansen: ruam kulit;mati rasa;pembengkakan saraf;kelemahan otot;deformitas tangan dan kaki
+Penyakit Leptospirosis: demam;nyeri otot;mual;mata merah;kulit dan mata menguning
+Penyakit Brucellosis: demam;nyeri otot;pembengkakan kelenjar getah bening;nyeri sendi;penurunan berat badan
+Penyakit Melioidosis: demam;nyeri otot;batuk;nyeri dada;abses kulit
+Penyakit Leishmaniasis: demam;penurunan berat badan;pembengkakan kelenjar getah bening;nyeri sendi;ruam kulit
+Penyakit Babesiosis: demam;kelelahan;nyeri otot;mual;anemia
+Penyakit Bartonellosis: demam;ruam kulit;pembengkakan kelenjar getah bening;nyeri sendi;penurunan berat badan
+Penyakit Schistosomiasis: demam;ruam kulit;nyeri otot;batuk darah;penurunan fungsi hati
+Penyakit Onchocerciasis: gatal-gatal;ruam kulit;kehilangan penglihatan;benjolan di bawah kulit;iritasi mata
+Penyakit Filariasis: pembengkakan ekstremitas;demam;gatal;ruam kulit;nyeri sendi

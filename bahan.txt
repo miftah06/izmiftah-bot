@@ -1,0 +1,24 @@
+requirementsdesain Color and Shape: hijau apel bentuk oval panjang with 67% hue, 82% saturation, 28% light
+Keyword: logo tulisan Mursyid
+Volume: fluctuating
+Symmetry: tidak tersinkronisasi
+Pattern: grid
+Additional Items: banyak
+Effect: ketegangan
+Target Year: 2025
+desain Color and Shape: biru turkis busur with 14% hue, 36% saturation, 34% light
+Keyword: anime bertuliskan Mursyid
+Volume: harsh
+Symmetry: berulang
+Pattern: houndstooth
+Additional Items: banyak
+Effect: kesatuan
+Target Year: 2045
+desain Color and Shape: biru bentuk segitiga sembarang with 20% hue, 37% saturation, 38% light
+Keyword: tentang villa kurcaci
+Volume: fierce
+Symmetry: geometris
+Pattern: polkadot
+Additional Items: kolom
+Effect: kehadiran spasial
+Target Year: 2034

@@ -1,0 +1,200 @@
+Air:larut,tidak berwarna
+Garam:larut,putih
+Gula:larut,putih
+Asam Sulfat:meledak,kuning
+Amonia:bau,tidak berwarna
+Kalsium Karbonat:zat kapur,putih
+Etanol:terbakar,tidak berwarna
+Hidrogen:meledak,tidak berwarna
+Oksigen:membuat larutan baru,tidak berwarna
+Karbon Dioksida:mendingin,tidak berwarna
+Nitrogen:netral,tidak berwarna
+Klorin:bercampur,hijau
+Natrium Hidroksida:melekat,putih
+Aseton:terbakar,tidak berwarna
+Metana:meledak,tidak berwarna
+Propana:terbakar,tidak berwarna
+Benzena:terbakar,kuning
+Asetilena:meledak,tidak berwarna
+Asam Asetat:larut,tidak berwarna
+Sikloheksana:terbakar,tidak berwarna
+Toluena:terbakar,tidak berwarna
+Butana:terbakar,tidak berwarna
+Pentana:terbakar,tidak berwarna
+Heptana:terbakar,tidak berwarna
+Hexana:terbakar,tidak berwarna
+Butil Asetat:terbakar,tidak berwarna
+Propanol:terbakar,tidak berwarna
+Butanol:terbakar,tidak berwarna
+Heptanol:terbakar,tidak berwarna
+Asam Benzoat:larut,putih
+Fenol:terbakar,putih
+Natrium Klorida:larut,putih
+Kalium Permanganat:menggandakan diri,ungu
+Amonium Nitrat:meledak,putih
+Kalsium Hidroksida:zat kapur,putih
+Litium:terbakar,putih
+Magnesium:terbakar,putih
+Aluminium:terbakar,putih
+Besi:hangus,abu-abu
+Tembaga:terbakar,merah
+Seng:terbakar,putih
+Nikel:terbakar,putih
+Perak:terbakar,putih
+Emas:netral,kuning
+Platina:netral,putih
+Raksa:netral,abu-abu
+Timbal:terbakar,abu-abu
+Karbon:hangus,hitam
+Fosfor:terbakar,merah
+Sulfur:terbakar,kuning
+Cairan Luminol:terbakar,kuning
+Amil Asetat:terbakar,tidak berwarna
+Arsen:terbakar,abu-abu
+Barium:terbakar,putih
+Berilium:terbakar,abu-abu
+Brom:terbakar,coklat
+Kadmium:terbakar,putih
+Kalsium:terbakar,putih
+Kromium:terbakar,abu-abu
+Kobalt:terbakar,abu-abu
+Galium:terbakar,putih
+Indium:terbakar,putih
+Yodium:terbakar,ungu
+Iridium:terbakar,abu-abu
+Krypton:netral,tidak berwarna
+Lanthanum:terbakar,putih
+Litium:terbakar,putih
+Neon:netral,tidak berwarna
+Neptunium:terbakar,putih
+Osmium:terbakar,abu-abu
+Palladium:terbakar,abu-abu
+Radium:terbakar,putih
+Rhenium:terbakar,abu-abu
+Rhodium:terbakar,abu-abu
+Rubidium:terbakar,putih
+Samarium:terbakar,putih
+Scandium:terbakar,putih
+Selenium:terbakar,abu-abu
+Silicon:terbakar,abu-abu
+Strontium:terbakar,putih
+Tantalum:terbakar,abu-abu
+Tellurium:terbakar,abu-abu
+Thallium:terbakar,putih
+Thorium:terbakar,abu-abu
+Titanium:terbakar,putih
+Vanadium:terbakar,abu-abu
+Xenon:netral,tidak berwarna
+Yttrium:terbakar,putih
+Zirconium:terbakar,abu-abu
+Alkohol:terbakar,tidak berwarna
+Asam Sitrat:larut,putih
+Asam Stearat:larut,putih
+Butanal:terbakar,tidak berwarna
+Butanon:terbakar,tidak berwarna
+Dietil Eter:terbakar,tidak berwarna
+Dimetil Eter:terbakar,tidak berwarna
+Etil Asetat:terbakar,tidak berwarna
+Formaldehid:terbakar,tidak berwarna
+Heksanal:terbakar,tidak berwarna
+Metanol:terbakar,tidak berwarna
+Air:larut,tidak berwarna
+Garam:larut,putih
+Gula:larut,putih
+Asam Sulfat:meledak,kuning
+Amonia:bau,tidak berwarna
+Kalsium Karbonat:zat kapur,putih
+Etanol:terbakar,tidak berwarna
+Hidrogen:meledak,tidak berwarna
+Oksigen:membuat larutan baru,tidak berwarna
+Karbon Dioksida:mendingin,tidak berwarna
+Nitrogen:netral,tidak berwarna
+Klorin:bercampur,hijau
+Natrium Hidroksida:melekat,putih
+Aseton:terbakar,tidak berwarna
+Metana:meledak,tidak berwarna
+Propana:terbakar,tidak berwarna
+Benzena:terbakar,kuning
+Asetilena:meledak,tidak berwarna
+Asam Asetat:larut,tidak berwarna
+Sikloheksana:terbakar,tidak berwarna
+Toluena:terbakar,tidak berwarna
+Butana:terbakar,tidak berwarna
+Pentana:terbakar,tidak berwarna
+Heptana:terbakar,tidak berwarna
+Hexana:terbakar,tidak berwarna
+Butil Asetat:terbakar,tidak berwarna
+Propanol:terbakar,tidak berwarna
+Butanol:terbakar,tidak berwarna
+Heptanol:terbakar,tidak berwarna
+Asam Benzoat:larut,putih
+Fenol:terbakar,putih
+Natrium Klorida:larut,putih
+Kalium Permanganat:menggandakan diri,ungu
+Amonium Nitrat:meledak,putih
+Kalsium Hidroksida:zat kapur,putih
+Litium:terbakar,putih
+Magnesium:terbakar,putih
+Aluminium:terbakar,putih
+Besi:hangus,abu-abu
+Tembaga:terbakar,merah
+Seng:terbakar,putih
+Nikel:terbakar,putih
+Perak:terbakar,putih
+Emas:netral,kuning
+Platina:netral,putih
+Raksa:netral,abu-abu
+Timbal:terbakar,abu-abu
+Karbon:hangus,hitam
+Fosfor:terbakar,merah
+Sulfur:terbakar,kuning
+Cairan Luminol:terbakar,kuning
+Amil Asetat:terbakar,tidak berwarna
+Arsen:terbakar,abu-abu
+Barium:terbakar,putih
+Berilium:terbakar,abu-abu
+Brom:terbakar,coklat
+Kadmium:terbakar,putih
+Kalsium:terbakar,putih
+Kromium:terbakar,abu-abu
+Kobalt:terbakar,abu-abu
+Galium:terbakar,putih
+Indium:terbakar,putih
+Yodium:terbakar,ungu
+Iridium:terbakar,abu-abu
+Krypton:netral,tidak berwarna
+Lanthanum:terbakar,putih
+Litium:terbakar,putih
+Neon:netral,tidak berwarna
+Neptunium:terbakar,putih
+Osmium:terbakar,abu-abu
+Palladium:terbakar,abu-abu
+Radium:terbakar,putih
+Rhenium:terbakar,abu-abu
+Rhodium:terbakar,abu-abu
+Rubidium:terbakar,putih
+Samarium:terbakar,putih
+Scandium:terbakar,putih
+Selenium:terbakar,abu-abu
+Silicon:terbakar,abu-abu
+Strontium:terbakar,putih
+Tantalum:terbakar,abu-abu
+Tellurium:terbakar,abu-abu
+Thallium:terbakar,putih
+Thorium:terbakar,abu-abu
+Titanium:terbakar,putih
+Vanadium:terbakar,abu-abu
+Xenon:netral,tidak berwarna
+Yttrium:terbakar,putih
+Zirconium:terbakar,abu-abu
+Alkohol:terbakar,tidak berwarna
+Asam Sitrat:larut,putih
+Asam Stearat:larut,putih
+Butanal:terbakar,tidak berwarna
+Butanon:terbakar,tidak berwarna
+Dietil Eter:terbakar,tidak berwarna
+Dimetil Eter:terbakar,tidak berwarna
+Etil Asetat:terbakar,tidak berwarna
+Formaldehid:terbakar,tidak berwarna
+Heksanal:terbakar,tidak berwarna
+Metanol:terbakar,tidak berwarna

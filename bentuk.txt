@@ -1,0 +1,103 @@
+kotak
+persegi panjang
+lingkaran
+segitiga
+oval
+bintang
+hati
+trapesium
+layang-layang
+belah ketupat
+pentagon
+heksagon
+oktagon
+decagon
+busur
+kubus
+balok
+bola
+tabung
+kerucut
+piramida
+prisma
+torus
+parabola
+elips
+spiral
+kapsul
+kubus terpotong
+kubus berlubang
+prisma segitiga
+tetrahedron
+dodecahedron
+ikosahedron
+bentuk bebas
+bentuk amorf
+bentuk geometris
+bentuk organik
+bentuk abstrak
+bentuk simetris
+bentuk asimetris
+bentuk kompleks
+bentuk sederhana
+bentuk dinamis
+bentuk statis
+bentuk linear
+bentuk kurva
+bentuk lengkung
+bentuk zigzag
+bentuk gelombang
+bentuk spiral ganda
+bentuk kluster
+bentuk mosaik
+bentuk fraktal
+bentuk poligon
+bentuk non-poligon
+bentuk solid
+bentuk berlubang
+bentuk teratur
+bentuk tidak teratur
+bentuk modular
+bentuk terstruktur
+bentuk tidak terstruktur
+bentuk berlapis
+bentuk berpori
+bentuk berlubang kecil
+bentuk permukaan halus
+bentuk permukaan kasar
+bentuk cembung
+bentuk cekung
+bentuk berbentuk bintang
+bentuk bulan sabit
+bentuk bulan purnama
+bentuk prisma heksagonal
+bentuk prisma oktagonal
+bentuk piramid segitiga
+bentuk piramid persegi
+bentuk segitiga sama sisi
+bentuk segitiga siku-siku
+bentuk segitiga tumpul
+bentuk segitiga lancip
+bentuk segitiga sembarang
+bentuk bintang lima
+bentuk bintang enam
+bentuk bintang tujuh
+bentuk bintang delapan
+bentuk lingkaran ganda
+bentuk lingkaran konsentris
+bentuk oval panjang
+bentuk oval pendek
+bentuk oval asimetris
+bentuk bulatan kecil
+bentuk bulatan besar
+bentuk segi empat
+bentuk segi lima
+bentuk segi enam
+bentuk segi delapan
+bentuk segi sepuluh
+bentuk kurva parabola
+bentuk kurva hiperbola
+bentuk kurva elips
+bentuk silinder
+bentuk kon
+bentuk prisma pentagonal

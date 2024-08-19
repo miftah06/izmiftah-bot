@@ -1,0 +1,12 @@
+Generate script with command:
+
+
+  skrip python telebot yang berfungsi untuk mendeteksi dan menemukan detail yang tersedia untuk keyword dalam pencarian google tanpa membuatkan link untuk detail tersebut namun hanya mengambil dan menampilkan informasi update yang tersedia seputar branch mengenai keyword dalam website website yang tersedia dalam keyword tersebut dalam hitungan timeout 10 detik maka buatlah dengan menggunakan PIP python yang terpopuler bersama dengan numpy, pandas dan telebot serta urrlib3 serta berikan secara lebih stylish dan sempurna
+ dengan tambahan fungsi raise
+ adapun jika isinya berupa pastikan, except
+
+ dengan fitur:
+
+pastikan, bersama fungsi atau pembahasan mengenai raise serta berikan saya detail lengkapnya 
+
+

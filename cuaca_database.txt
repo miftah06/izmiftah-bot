@@ -1,0 +1,16 @@
+2023-02-01 : Mendung
+2023-02-02 : Berawan
+2023-02-03 : Suram
+2023-02-04 : Hujan
+2023-02-05 : Tidak Beratur
+2023-02-06 : Hujan Rintik
+2023-02-07 : Hujan Deras
+2023-02-08 : Hujan Berangin
+2023-02-09 : Cerah
+2023-02-10 : Mendung
+2023-02-11 : Berawan
+2023-02-12 : Suram
+2023-02-13 : Bencana
+2023-02-14 : Hujan
+2023-02-15 : Tidak Beratur
+2023-02-16

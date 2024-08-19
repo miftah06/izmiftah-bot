@@ -1,0 +1,7 @@
+skrip pip python telebot yang memmbaca senyawa kimia dari kimia.txt yang di sertai sifat sifat dan warna senyawanya kemudian jenis larutannya dan kemudian jika telebot menuliskan senyawa senyawa kimia tersebut lalu mengoganisirkan senyawa senyawa tersebut untuk kemudian di definiskan dengan senyawa yang baru. Maka secara random, senyawa kimia tadi memunculkan satu sifat sifat seperti : meledak, becampur, netral, melekat, larut, bau, terbakar, mendingin, membuat larutan baru, zat kapur, hangus, formalin, dan menggadakan diri, yang dimana semua sifat yang keluar tergantung daripada jumlah sifat yang paling dominan di milikinya jika tidak ada yang dominan maka sifatnya netral. Maka  buatlah bersamaan dengan ouput nama senyawa yang di hasilkan, dan juga memiliki hasil warnanya yang mana memiliki warna dominan yang jauh lebih gelap maka itulah hasilnya serta berikan secara lebih stylish dan sempurna
+ dengan tambahan fungsi False
+ adapun jika isinya berupa evaluasi, else
+
+ dengan fitur:
+
+evaluasi, bersama fungsi atau pembahasan mengenai False serta berikan saya detail lengkapnya

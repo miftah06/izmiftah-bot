@@ -1,0 +1,95 @@
+Generate text with command:
+
+
+ penjelasan mengenai hasil penelitian mengenai serta buatlah sedemikian rupa dengan  Fitur-fitur Bot Izmiftahbot yang terdiri dari:
+cuaca - untuk prediksi cuaca
+trading - untuk prediksi treding
+vpn - untuk deploy bot python
+ytsub - untuk menambahkan subtitle ke yt
+ide - untuk mengenerate sebuah ide kreatif
+materi - untuk membuat materi belajar sebanyak banyaknya
+convert - untuk convert file
+logo - untuk membuat logo text
+bg - untuk menghapus bg gambar
+kebaikan - save momen 'kebaikan' untuk load momen
+baca - untuk mengubah teks menjadi googlevoice
+desain - untuk mengenerate desain prompt
+gacha2 - untuk mendapatkan domain dari pesan text atau kebalikan dari gacha yang asli
+filter - untuk memberikan filter dengan reply pada gambar
+quote - untuk menghasilkan quote
+endgame - akhiri hostingan game
+game - untuk hosting zip html atau php
+kode - untuk menganalisis dan merapikan beberapa kata
+host - untuk mengecek kualitas bug
+belajar - untuk mengetahui apa yang harus di pelajari secara spesifik
+nama - membuat nama unik dari huruf dan abjad
+jadwal - untuk membuat jadwal harian random
+acak - untuk mengacak ringkas suatu kalimat
+artikan - untuk terjemahkan media\pesan
+terjemahkan - untuk menerjemahkan pesan
+ddos - untuk fitur banned wa
+video - untuk menghasilkan link video
+koding - untuk memembantu membuat skrip sebanyak mungkin
+yt - untuk mendownload video dari youtube
+unduh - untuk mengunduh link berisikan video
+pdf - untuk mengubah dengan reply pesan ke pdf
+warna - untuk menghasilkan pallet warna untuk mendesain gambar
+apk - generate random ide apk
+newapk - generate random link for new apk
+ipinfo - untuk mengetahui lokasi dan domain dari list ip yang diberikan
+ai_gambar - untuk membuat gambar dengan deepai
+ai_chat - untuk chat dengan deepai
+bypass - untuk melaukan bypass 1 dan 2
+tulis - untuk menulis dengan \tulis namafile lalu textnya
+ai_image - untuk membuat gambar dengan ai
+gambarin - untuk mneghasilkan gambar dari ai 1.txt hinggah seterusnya
+photo - untuk mendownload url ke referensi foto.png
+bukablokir - untuk membuka blokir saat saldo 0
+reset - untuk mereset saldo
+passwordku - untuk melihat password yang berlaku
+help - untuk melihat bantuan
+start - untuk memulai ulang 
+upload - yakni untuk mengupload file tersebut
+keyword - untuk update database untuk generate ai prompt nya
+my_id - untuk melihat id user bot kamu
+pembayaran - untuk melakukan pembayaran
+bayar - untuk pembayaran alternatif
+link - untuk memunculkan link pembayarannya
+update - yakni untuk menulis secara otomatis ke file pdf output_novel.pdf
+write - yakni untuk menulis ke dalam output.html
+ai - untuk menulis dengan open ai
+chat - untuk melakukan chatting dengan ai 
+dnsinfo - untuk mendapatkan info seputar hosting domain tersebut
+dork - untuk menjejahi domain dan url dengan dua katakunci misal: google\.com
+dorking - untuk mendapatkan link misal free \ai untuk cara memakainya
+scan - untuk scanning domain dan url 
+payment - untuk melakukan pembayaran dengan password
+saldo - untuk melihat sisa saldo
+cek_saldo - untuk melihat saldo user kamu
+cek_harga - untuk cek harga barang di google
+berbagi - untuk berbagi saldo ke yang lain
+reset_saldo - untuk mereset saldo nya ke nilai tertentu
+topup - untuk melakukan top-up
+blokir_koin - yakni untuk mengganti penggunaan saldo kamu 
+blokir - yakni untuk blokir fungsi bot untuk di gunakan
+hitung - untuk menjawab perhitungan matematika
+coding - yakni untuk menjawab error saat coding
+artikel - untuk pembuatan artikel dengan menggunakan openai
+ai_prompt - yakni untuk mengisi prompt sebelum di ubah ke prompt 
+help - untuk meihat  tata cara penggunaan
+download - untuk download file txt, pdf dan html
+lukis -  untuk membuat gambar dengan ai
+resize - untuk mengubah gambar ke hd
+referensi - untuk membuat gambar ai berdasarkan foto.png
+remix - untuk membuat gambar ai dengan hasil ke generated_image.jpg
+gacha - untuk melakukan gacha bug ke ip menggunakan pesan text
+
+dengan command handler khusus untuk daftar adalah #daftar  adalah untuk melakukan pendaftaran untuk dapat menggunkan botnya dan yang lainnya adalah 
+ dengan kondisi mengenai hal tersebut
+ adapun jika isinya berupa pelajari, 
+
+ dengan text mengenai:
+
+pelajari, bersama fungsi atau pembahasan mengenai hal -hal yang saya maksudkan tadi serta berikan saya versi lengkapnya 
+
+

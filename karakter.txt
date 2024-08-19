@@ -1,0 +1,96 @@
+adil:tidak adil
+aktif:pasif
+amanah:pengkhianat
+ambisius:tidak ambisius
+analitis:tidak analitis
+antusias:tidak antusias
+baik:jahat
+berani:penakut
+berdedikasi:tidak berdedikasi
+berempati:tidak berempati
+berintegritas:tidak berintegritas
+berkomitmen:tidak berkomitmen
+berorientasi pada detail:ceroboh
+berpikir kritis:berpikir dangkal
+bersemangat:tidak bersemangat
+bertenaga:lemas
+berwawasan sempit:berwawasan luas
+cerdas:bodoh
+cekatan:lelet
+cermat:ceroboh
+cerdas emosional:tidak cerdas emosional
+cerdik:licik
+disiplin:tidak disiplin
+diplomatis:konfrontatif
+efisien:tidak efisien
+fleksibel:keras kepala
+gigih:menyerah
+inovatif:konservatif
+inspiratif:tidak inspiratif
+jujur:bohong
+kreatif:tidak kreatif
+logis:irasional
+mandiri:bergantung
+mampu bekerja sama:tidak mampu bekerja sama
+menghargai waktu:menunda-nunda
+motivator:demotivator
+optimis:pessimis
+pandai berkomunikasi:tidak pandai berkomunikasi
+pandai bernegosiasi:tidak pandai bernegosiasi
+pandai mendengar:tidak pandai mendengar
+peduli:acuh
+pekerja keras:malas
+penuh inisiatif:tidak punya inisiatif
+penuh integritas:tidak punya integritas
+perfeksionis:asal-asalan
+percaya diri:kurang percaya diri
+pintar:sok tahu
+proaktif:reaktif
+rajin:malas
+ramah:tidak ramah
+rela berkorban:egois
+rendah hati:sombong
+resolut:bingung
+sabar:tidak sabar
+santun:kasar
+semangat:lemah
+sopan:tidak sopan
+sportif:tidak sportif
+strategis:tidak strategis
+tegas:plin-plan
+teliti:ceroboh
+terampil:tidak terampil
+terbuka:tertutup
+terpercaya:tidak bisa dipercaya
+terstruktur:tidak terstruktur
+toleran:intoleran
+ulet:mudah menyerah
+visioner:kacamata kuda
+bertanggung jawab:tidak bertanggung jawab
+percaya diri:tidak percaya diri
+cermat:tidak cermat
+adaptif:tidak adaptif
+berpikir positif:berpikir negatif
+pengertian:tidak pengertian
+pantang menyerah:mudah menyerah
+dermawan:pelit
+pemaaf:pemarah
+pengendalian diri:tidak bisa mengendalikan diri
+visioner:kacamata kuda
+optimis:pesimis
+percaya diri:ragu-ragu
+pandai bergaul:anti sosial
+pintar:sok tahu
+penuh semangat:tidak bersemangat
+penuh kasih sayang:dingin
+penuh perhatian:cuek
+ramah:tidak ramah
+sabar:tidak sabar
+jujur:pembohong
+setia:tidak setia
+tulus:munafik
+pengasih:tidak pengasih
+kreatif:stagnan
+inovatif:tradisional
+berani:penakut
+rela berkorban:egois
