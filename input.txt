@@ -1,30 +1,30 @@
-Apakah keuntungan menggunakan fungsi dalam pemrograman?
-Tuliskan program Python untuk menghitung faktorial dari suatu bilangan.
-Berikan penjelasan tentang konsep Big-O dalam analisis kinerja algoritma.
-Bagaimana cara menangani eksepsi (exception) dalam Python?
-Apakah perbedaan antara == dan is dalam Python?
-Berikan penjelasan tentang konsep multithreading dalam pemrograman.
-Jelaskan perbedaan antara linear search dan binary search.
-Berikan penjelasan tentang penanganan kesalahan (error handling) dalam Python.
-Jelaskan perbedaan antara stack dan queue.
-Bagaimana cara mengonversi data dari tipe satu ke tipe lain dalam Python?
-Bagaimana cara menggabungkan dua list dalam Python?
-Jelaskan konsep inheritance dalam pemrograman berorientasi objek.
-Apa itu algoritma dan kenapa penting dalam pemrograman?
-Berikan penjelasan tentang virtual environment dalam Python.
-Apa perbedaan antara metode GET dan POST dalam protokol HTTP?
 Buatlah skrip Python untuk menghitung jumlah kata dalam sebuah teks.
-Bagaimana cara menggunakan modul eksternal (external module) dalam Python?
 Bagaimana cara mengakses elemen-elemen dalam sebuah dictionary di Python?
-Jelaskan perbedaan antara mutable dan immutable objects dalam Python.
 Bagaimana cara mengatasi konflik merge dalam sistem kontrol versi Git?
-Bagaimana cara membaca dan menulis file teks dalam Python?
-Jelaskan perbedaan antara list dan tuple dalam Python.
-Tuliskan program Python untuk menghasilkan pola segitiga.
-Tuliskan program Python sederhana untuk menghasilkan deret Fibonacci.
-Tuliskan program Python yang menghitung rata-rata dari sebuah list.
-Berikan penjelasan singkat tentang konsep pemrograman berorientasi objek.
-Tuliskan program Python untuk mencari bilangan prima dalam rentang tertentu.
-Apakah itu recursion dan bagaimana cara mengimplementasikannya dalam Python?
+Bagaimana cara mengonversi data dari tipe satu ke tipe lain dalam Python?
+Berikan penjelasan tentang konsep multithreading dalam pemrograman.
 Bagaimana cara menggunakan regular expression (regex) dalam Python?
+Berikan penjelasan singkat tentang konsep pemrograman berorientasi objek.
+Jelaskan perbedaan antara stack dan queue.
+Apakah keuntungan menggunakan fungsi dalam pemrograman?
+Tuliskan program Python untuk mencari bilangan prima dalam rentang tertentu.
+Tuliskan program Python untuk menghasilkan pola segitiga.
+Jelaskan perbedaan antara list dan tuple dalam Python.
+Berikan penjelasan tentang penanganan kesalahan (error handling) dalam Python.
+Bagaimana cara menggunakan modul eksternal (external module) dalam Python?
+Apa perbedaan antara metode GET dan POST dalam protokol HTTP?
+Bagaimana cara menangani eksepsi (exception) dalam Python?
+Berikan penjelasan tentang virtual environment dalam Python.
+Jelaskan perbedaan antara linear search dan binary search.
+Jelaskan perbedaan antara mutable dan immutable objects dalam Python.
+Tuliskan program Python sederhana untuk menghasilkan deret Fibonacci.
+Bagaimana cara membaca dan menulis file teks dalam Python?
+Apakah perbedaan antara == dan is dalam Python?
+Jelaskan konsep inheritance dalam pemrograman berorientasi objek.
+Tuliskan program Python untuk menghitung faktorial dari suatu bilangan.
+Tuliskan program Python yang menghitung rata-rata dari sebuah list.
+Berikan penjelasan tentang konsep Big-O dalam analisis kinerja algoritma.
+Bagaimana cara menggabungkan dua list dalam Python?
+Apa itu algoritma dan kenapa penting dalam pemrograman?
 Tuliskan program Python untuk mengurutkan elemen-elemen dalam sebuah list.
+Apakah itu recursion dan bagaimana cara mengimplementasikannya dalam Python?
