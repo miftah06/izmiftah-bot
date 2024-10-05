@@ -1,0 +1,7 @@
+skrip aplikasi telebot VTU untuk pulsa atau pembelian kuota yang mengirim kan paketan dari input link yang tersedia pada hp pelanggan dengan cara mengirimkan paketan dengan. Menggunakan fitur aplikasi layanan pelanggan dan mengisi saldo pulsa atau kuota ke pelanggan dengan catatan menggunakan saldo e-wallet admin untuk mengisi paketan atau pulsa atau kuota atau wallet dari modal bayar oleh admin ke pengguna menggunakan koneksi kirim link per link dari pengguna ke admin yang membeli wallet tersebut  maka buatlah dalam bentuk kode PHP dengan database wallet.db jika memungkinkan dan buatkanlah saya skrip skrip python nya serta berikan secara lebih stylish dan sempurna
+dengan tambahan fungsi return
+adapun jika isinya berupa revisi, from
+
+dengan fitur:
+
+Topup, bersama fungsi atau pembahasan mengenai return serta berikan saya detail lengkapnya

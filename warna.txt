@@ -1,0 +1,100 @@
+merah
+biru
+kuning
+hijau
+oranye
+ungu
+cokelat
+hitam
+putih
+abu-abu
+merah muda
+biru muda
+kuning muda
+hijau muda
+oranye muda
+ungu muda
+cokelat muda
+hitam muda
+putih muda
+abu-abu muda
+merah tua
+biru tua
+kuning tua
+hijau tua
+oranye tua
+ungu tua
+cokelat tua
+hitam tua
+putih tua
+abu-abu tua
+merah marun
+biru laut
+kuning emas
+hijau zamrud
+oranye jingga
+ungu violet
+cokelat kayu
+hitam pekat
+putih tulang
+abu-abu arang
+merah anggur
+biru pastel
+kuning pastel
+hijau pastel
+oranye pastel
+ungu pastel
+cokelat pastel
+hitam legam
+putih salju
+abu-abu kabut
+merah darah
+biru safir
+kuning lemon
+hijau daun
+oranye labu
+ungu lavender
+cokelat tanah
+hitam abu
+putih mutiara
+abu-abu perak
+merah bata
+biru nila
+kuning kenari
+hijau lumut
+oranye terakota
+ungu lilac
+cokelat karamel
+hitam kelam
+putih gading
+abu-abu baja
+merah cabai
+biru turkis
+kuning mentega
+hijau mint
+oranye koral
+ungu magenta
+cokelat kopi
+hitam arang
+putih kapas
+abu-abu buram
+merah delima
+biru langit
+kuning kunyit
+hijau apel
+oranye jeruk
+ungu plum
+cokelat bata
+hitam karbon
+putih krem
+abu-abu asap
+merah mawar
+biru royal
+kuning safron
+hijau lumut laut
+oranye tangerine
+ungu anggur
+cokelat mahoni
+hitam tanah
+putih salju
+abu-abu grafit

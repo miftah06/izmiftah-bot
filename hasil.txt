@@ -1,11 +1,1 @@
-Generate script with command:
-
-
- sebuah skrip python whatsapp bot dengan menggunakan pip module php dengan fungsi dan fitur chat dengan openai bersama command ai untuk menjalankkannya serta None
- dengan tambahan fungsi not
- adapun jika isinya berupa 3. Subtema: Merawat hewan dan tumbuhan None
-
- dengan fitur:
-
-3. Subtema: Merawat hewan dan tumbuhan bersama fungsi atau pembahasan mengenai not serta berikan saya detail lengkapnya 
-
+landscape designs for Islamic school
