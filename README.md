@@ -2,6 +2,8 @@
 ## Command karena ada yang gak work karena premium jadi masih beta dulu
 ## versi gratis: aibot.py
 ## t.me/miftah45_bot
+## TIDAK BOLEH DI RECODE ATAUPUN DI KLAIM HAK CIPTA
+
 
 Command:
 
