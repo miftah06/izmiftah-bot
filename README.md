@@ -112,6 +112,18 @@ remix - untuk membuat gambar ai dengan hasil ke generated_image.jpg
 gacha - untuk melakukan gacha bug ke ip menggunakan pesan text
 ```
 
+#Download (WINDOWS)
+```bash
+choco install git
+git clone https://github.com/miftah06/izmiftah-bot.git
+```
+
+#Download (TERMUX)
+```bash
+pkg install git -y
+git clone https://github.com/miftah06/izmiftah-bot.git
+```
+
 #Instalasi 
 ```bash
 pip3 install -r pip.txt
