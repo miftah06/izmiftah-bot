@@ -133,7 +133,8 @@ pip3 install -r pip2.txt
 pip3 install -r pip3.txt
 ```
 ```bash
-pip3 install ipwhois faker whois telethon scipy pdfplumber imageio[ffmpeg] passlib asyncio datetime pint validators vosk pytube geopy load_dotenv urllib3 geopandas folium phonenumbers telebot beautifulsoup4 pdfkit paramiko webcolors yt_dlp imageio pymupdf telethon opencv-python reportlab pillow tqdm deep-translator googletrans==4.0.0-rc1 pyfiglet pandas numpy pyqrcode gtts pytz timezonefinder cryptography pydub PyPDF2 removebg matplotlib 
+pip3 install langdetect ipwhois faker whois telethon scipy pdfplumber imageio[ffmpeg] passlib asyncio datetime pint validators vosk pytube geopy load_dotenv urllib3 geopandas folium phonenumbers telebot beautifulsoup4 pdfkit paramiko webcolors yt_dlp imageio pymupdf telethon opencv-python reportlab pillow tqdm deep-translator googletrans==4.0.0-rc1 pyfiglet pandas numpy pyqrcode gtts pytz timezonefinder cryptography pydub PyPDF2 removebg matplotlib 
+
 ```
 
 # RUN IZMIFTAH-BOT
